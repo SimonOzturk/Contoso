@@ -1,0 +1,8 @@
+{
+    "SqlServer": {
+        "Instance": "localhost",
+        "Database": "MyDatabase",
+        "User": "sa",
+        "Password": "MyPassword"
+    }
+}
